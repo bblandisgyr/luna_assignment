@@ -11,7 +11,7 @@ Below files are given to you.
 
 ## How to Submit Project
 
-Please fork or download this project and do your development and create your documents in your own repository. Then you can send us the link of your repository.
+Please clone or download this project and do your development and create your documents in your own repository. Then you can send us the link of your repository.
 
 ## Preliminary Information
 
